@@ -4,8 +4,10 @@
 1. **Kali Linux** - *Attacker Machine*
 2. **Ubuntu** - *Endpoint Device*
 
+
 ## Network Connection:
 The network connection is on ***Bridged Adapter*** for both the Kali Linux and Ubuntu Machines.
+
 
 ## Wazuh Configuration:
 - **Wazuh Server** installed on *Kali Linux*
