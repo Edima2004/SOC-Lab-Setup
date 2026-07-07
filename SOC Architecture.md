@@ -10,5 +10,5 @@ The network connection is on ***Bridged Adapter*** for both the Kali Linux and U
 
 
 ## Wazuh Configuration:
-- **Wazuh Server** installed on *Kali Linux*
-- **Wazuh Agent** installed on *Ubuntu*
+- **Wazuh Server** is installed on *Kali Linux*
+- **Wazuh Agent** is installed on *Ubuntu*
